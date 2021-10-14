@@ -1,0 +1,26 @@
+env:
+  TERM: xterm-256color
+
+window:
+  title: Alacritty
+
+dynamic_title: true  
+
+class:
+  # Application instance name
+  instance: Alacritty
+  # General application class
+  general: Alacritty
+    
+scrolling:
+  history: 5000
+
+font:
+  
+  normal:
+   
+    family: Monospace
+
+    style: Regular
+
+  size: 17.0  
